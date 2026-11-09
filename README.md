@@ -156,9 +156,9 @@ npm run start
 3. Add all variables defined in `.env.local` into the Vercel Environment Variables settings.
 4. Deploy.
 
-## Author
+## Credits
 
-Developed by **Kalidas KJ**.
+Developed by **Kalidas KJ and Sukesh S**.
 
 ## License
 

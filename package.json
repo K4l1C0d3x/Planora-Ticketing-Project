@@ -3,7 +3,7 @@
   "name": "planora-tickets",
   "version": "0.1.0",
   "private": true,
-  "author": "Kalidas KJ",
+  "author": "Kalidas KJ & Sukesh S",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
